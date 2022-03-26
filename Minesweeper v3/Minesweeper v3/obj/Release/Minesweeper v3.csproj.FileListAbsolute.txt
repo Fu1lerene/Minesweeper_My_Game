@@ -1,0 +1,21 @@
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\bin\Release\Minesweeper v3.exe.config
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\bin\Release\Minesweeper v3.exe
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\bin\Release\Minesweeper v3.pdb
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.csprojAssemblyReference.cache
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper_v3.Form1.resources
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper_v3.Properties.Resources.resources
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.csproj.GenerateResource.cache
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.csproj.CoreCompileInputs.cache
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.exe
+D:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.pdb
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\bin\Release\Minesweeper v3.exe.config
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\bin\Release\Minesweeper v3.exe
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\bin\Release\Minesweeper v3.pdb
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.csproj.AssemblyReference.cache
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.csproj.SuggestedBindingRedirects.cache
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper_v3.Form1.resources
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper_v3.Properties.Resources.resources
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.csproj.GenerateResource.cache
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.csproj.CoreCompileInputs.cache
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.exe
+F:\Учеба\Programing\Minesweeper v3\Minesweeper v3\obj\Release\Minesweeper v3.pdb
