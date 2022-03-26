@@ -1,1 +1,3 @@
-# Minesweeper_My_Game
+# Minesweeper
+
+Моя первая игра, написанная на языке C#.
